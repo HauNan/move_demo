@@ -1,0 +1,18 @@
+Metadata-Version: 1.2
+Name: yumi-moveit-demos
+Version: 0.1.0
+Summary: YuMi test controllers
+Home-page: UNKNOWN
+Author: Yoshua Nava
+Maintainer: Yoshua Nava
+Maintainer-email: yoshua@kth.se
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: rospy
+Requires: tf
+Requires: moveit_commander
+Requires: moveit_msgs
+Requires: geometry_msgs
+Requires: std_msgs
+Requires: yumi_hw

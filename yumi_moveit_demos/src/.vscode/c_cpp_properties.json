@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/houlam/catkin_yumi/devel/include/**",
+        "/opt/ros/kinetic/include/**",
+        "/home/houlam/catkin_yumi/src/abb_rws_interface/include/**",
+        "/home/houlam/catkin_yumi/src/yumi/gazebo_mimic/include/**",
+        "/home/houlam/catkin_yumi/src/industrial_core/industrial_robot_client/include/**",
+        "/home/houlam/catkin_yumi/src/industrial_core/industrial_trajectory_filters/include/**",
+        "/home/houlam/catkin_yumi/src/industrial_core/industrial_utils/include/**",
+        "/home/houlam/catkin_yumi/src/industrial_core/simple_message/include/**",
+        "/home/houlam/catkin_yumi/src/yumi/yumi_cameras/include/**",
+        "/home/houlam/catkin_yumi/src/yumi/yumi_hw/include/**",
+        "/home/houlam/catkin_yumi/src/yumi/yumi_test_controllers/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

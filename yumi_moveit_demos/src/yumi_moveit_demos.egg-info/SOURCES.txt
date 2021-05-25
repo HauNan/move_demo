@@ -1,0 +1,9 @@
+README.md
+setup.py
+src/yumi_moveit_demos/__init__.py
+src/yumi_moveit_demos/main.py
+src/yumi_moveit_demos/yumi_moveit_utils.py
+src/yumi_moveit_demos.egg-info/PKG-INFO
+src/yumi_moveit_demos.egg-info/SOURCES.txt
+src/yumi_moveit_demos.egg-info/dependency_links.txt
+src/yumi_moveit_demos.egg-info/top_level.txt
